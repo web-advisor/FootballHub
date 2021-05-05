@@ -6,7 +6,7 @@
     include("hash.php");
     $link=mysqli_connect($host,$userName,$password,$dbName);
     if(mysqli_connect_error()){
-        print_r(mysqli_connect_error());
+        // print_r(mysqli_connect_error());
            exit();
     }
     if(isset($_GET['process'])){

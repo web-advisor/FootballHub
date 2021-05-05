@@ -216,7 +216,7 @@
 }
             
                 
-   
+
 
 
     function displayNews($type){

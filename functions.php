@@ -1,5 +1,6 @@
 <?php 
     session_start();
+    echo "Helllo ";
     error_reporting(E_ALL ^ E_WARNING); 
 
     include("hash.php");

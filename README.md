@@ -54,6 +54,6 @@ So as part of Future Aspect :
 - Football Betting section where match odds will be realtime and betting will be done via footCoins. As a result of Football betting users will further earn footcoins.
 - Fantasy Football section where users will have to participate via footCoins. Hence, footCoins will also be earned from this section.  
 - Shop section will contain coupons from football merchandise and related prroducts selling companies, these coupons could be bought via footCoins. 
-
+- After establishing footballHUB similar one place platforms for other platoforms can be set up with suitable User Interface. 
 ---
 

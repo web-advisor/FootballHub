@@ -53,7 +53,7 @@ So as part of Future Aspect :
 - Steps trackker section where user's steps will be maintained. Walking and Running steps data will be collected from Google Fit. Based on steps users will be awarded footCoins via some steps to footCoins conversion rate. 
 - Football Betting section where match odds will be realtime and betting will be done via footCoins. As a result of Football betting users will further earn footcoins.
 - Fantasy Football section where users will have to participate via footCoins. Hence, footCoins will also be earned from this section.  
-- Shop section will contain coupons from football merchandise and related prroducts selling companies, these coupons could be bought via footCoins. 
-- After establishing footballHUB similar one place platforms for other platoforms can be set up with suitable User Interface. 
+- Shop section will contain coupons from football merchandise and related products selling companies, these coupons could be bought via footCoins. 
+- After establishing footballHUB similar one place platforms for other sports can be set up with suitable User Interface. 
 ---
 

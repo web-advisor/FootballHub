@@ -1,12 +1,12 @@
 <?php 
     session_start();
-    echo "Helllo ";
+    // echo "Helllo ";
     error_reporting(E_ALL ^ E_WARNING); 
 
     include("hash.php");
     $link=mysqli_connect($host,$userName,$password,$dbName);
     if(mysqli_connect_error()){
-        // print_r(mysqli_connect_error());
+        print_r(mysqli_connect_error());
            exit();
     }
     if(isset($_GET['process'])){
@@ -223,7 +223,7 @@
     function displayNews($type){
         global $newsApi;
         if($type=="public"){
-            $jsonNews=file_get_contents("https://newsapi.org/v2/top-headlines?q=football&from=2021-03-20&sortBy=relevancy&language=en&category=sports&pageSize=10&apiKey=".$newsApi);
+            $jsonNews=file_get_contents("https://newsapi.org/v2/top-headlines?q=football&from=2021-04-20&sortBy=relevancy&language=en&category=sports&pageSize=10&apiKey=".$newsApi);
             $arrayNews=json_decode($jsonNews,true);
             // print_r($arrayNews);
             if(count($arrayNews['articles'])>0){

@@ -46,6 +46,7 @@ https://user-images.githubusercontent.com/75082566/118444478-cbb31800-b70a-11eb-
 ## Future Aspect of the Web App
 <p>The Goal is to create one platform after which no Football fan will need another platform.</p> 
 So as part of Future Aspect :
+
 - Enabling special previleges for verified accounnt of players and coaches.
 - Video support
 - footCoins, the Currency of footballHUB. Every user will get 100 footCoins to start with.
@@ -53,4 +54,6 @@ So as part of Future Aspect :
 - Football Betting section where match odds will be realtime and betting will be done via footCoins. As a result of Football betting users will further earn footcoins.
 - Fantasy Football section where users will have to participate via footCoins. Hence, footCoins will also be earned from this section.  
 - Shop section will contain coupons from football merchandise and related prroducts selling companies, these coupons could be bought via footCoins. 
+
+---
 

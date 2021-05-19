@@ -13,7 +13,9 @@
     <meta name="robots" content="index,follow">
 
     <title>Football Hub</title>
-    
+
+    <link rel="icon" href="assets/img/iconic.jpg">
+
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
@@ -24,8 +26,7 @@
     <link href="assets/css/application.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
     <script src="fontawesome/js/all.js"></script>
-    <link href="assets/css/style.css" rel="stylesheet">
-    
+    <link href="assets/css/style.css" rel="stylesheet"> 
     
   </head>
   

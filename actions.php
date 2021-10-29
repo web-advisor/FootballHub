@@ -26,7 +26,7 @@
                 echo 1;
             }else{
                 $error="Could not find that Username-Password Combination ! Please try Again !";
-            }
+            }   
         // }
 
         if($error!=""){

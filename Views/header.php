@@ -26,7 +26,7 @@
     <link href="assets/css/application.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
     <script src="fontawesome/js/all.js"></script>
-    <link href="assets/css/style.css" rel="stylesheet"> 
+    <link href="assets/css/style.css?v=<?php echo time(); ?>" rel="stylesheet"> 
     
   </head>
   

@@ -237,7 +237,7 @@
       }
       @media (max-width: 420px) {
         .card-weather {
-          min-height: 300px;
+          min-height:450px;
         }
       }
       .card-weather.card-weather-has-bg {
